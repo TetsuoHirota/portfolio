@@ -12,9 +12,9 @@
 
       <b-collapse id="navbar-toggle-collapse" is-nav>
         <b-navbar-nav class="ml-auto">
-          <b-nav-item href="#test">ABOUT ME</b-nav-item>
-          <b-nav-item href="#test2">SKILLS</b-nav-item>
-          <b-nav-item href="#">MY WORK</b-nav-item>
+          <b-nav-item href="#aboutMe">ABOUT ME</b-nav-item>
+          <b-nav-item href="#myWork">MY WORK</b-nav-item>
+          <b-nav-item href="#contact">CONTACT</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
@@ -25,7 +25,7 @@
 
 <style lang="scss">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
